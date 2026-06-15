@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "barrick-eddon",
+    "name": "Barrick Eddon",
+    "epithet": "the shadow-haunted twin",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Barrick Eddon:SHM:c73d3a⟧"
+  },
+  {
+    "slug": "briony-eddon",
+    "name": "Briony Eddon",
+    "epithet": "the princess who won't bend",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Briony Eddon:SHM:4782fa⟧"
+  },
+  {
+    "slug": "king-olin",
+    "name": "King Olin Eddon",
+    "epithet": "the captive king",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦King Olin Eddon:SHM:7128c3⟧"
+  },
+  {
+    "slug": "the-qar",
+    "name": "The Qar",
+    "epithet": "the People behind the line",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Qar:SHM:504fe5⟧"
+  },
+  {
+    "slug": "the-shadowline",
+    "name": "The Shadowline",
+    "epithet": "the twilight border",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Shadowline:SHM:8effc6⟧"
+  },
+  {
+    "slug": "chert",
+    "name": "Chert the Funderling",
+    "epithet": "the stone-dweller",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Chert the Funderling:SHM:4cc4fe⟧"
+  },
+  {
+    "slug": "ferras-vansen",
+    "name": "Ferras Vansen",
+    "epithet": "the dutiful captain",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Ferras Vansen:SHM:0086f0⟧"
+  },
+  {
+    "slug": "autarch-sulepis",
+    "name": "Autarch Sulepis",
+    "epithet": "the mad god-king",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Autarch Sulepis:SHM:790395⟧"
+  },
+  {
+    "slug": "the-trigon",
+    "name": "The Gods & the Trigon",
+    "epithet": "the brothers' old war",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Gods & the Trigon:SHM:f51e3a⟧"
+  }
+]
