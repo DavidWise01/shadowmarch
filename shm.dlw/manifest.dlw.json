@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Twin heirs, an immortal foe behind a twilight border, and a war of gods older than memory — the castle of Southmarch under siege from every side.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 596,
+    "prev": "73f251cf8c2c397f446e4b3edd9e9b0635faf9866cabe89836a0df1c11c85f59",
+    "link": "18a98bdcfb85fb10292d584481855dd14fbda53745616fef6d53665942f5d59f",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }

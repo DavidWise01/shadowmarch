@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 596
+slug  : shadowmarch
+seal  : 36c60d9e80753787ac93e18257e366a821621834635e64870ba2e236a6cde55d
+prev  : 73f251cf8c2c397f446e4b3edd9e9b0635faf9866cabe89836a0df1c11c85f59
+link  : 18a98bdcfb85fb10292d584481855dd14fbda53745616fef6d53665942f5d59f
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
